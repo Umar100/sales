@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "625828762963",
+    "project_id": "smartsales100",
+    "storage_bucket": "smartsales100.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625828762963:android:4a1e4fa281dba19581bda6",
+        "android_client_info": {
+          "package_name": "com.example.sales"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625828762963-7p5017dukhunnl9t94h5umhqeur6e2h8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJsif8cL2MazoMBqjRkPJr2_xvxPxgWvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625828762963-7p5017dukhunnl9t94h5umhqeur6e2h8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
